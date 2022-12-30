@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  background-color: rgb(0, 0, 0);
+  background-image: url('noise2.png');
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#main{
+  display: flex;
+  flex-direction: row;
+}
+
+#form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.text{
+  width: 25%;
+  margin: 0 auto;
+}
+
+.submitbutton{
+  width: 5%;
+  margin: 0 auto;
+
+}
+
+#userselect{
+  display: flex;
+  flex-direction: row;
+}
+
+.forms{
+  display: flex;
+  flex-direction: column;
+}
+
+.flexcolumn{
+  display: flex;
+  flex-direction: column;
+}
+
+.flexrow{
+  display: flex;
+  flex-direction: row;
+}
+
+.inputbox{
+  background: none;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 15%;
+  color: #FFF;
+  font-size: 18px;
+  padding: 10px 10px 10px 5px;
+  display: block;
+  width: 100%;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid #FFF;
+}
+.inputbox:focus{
+  outline: none;
+}
+
+h1{
+  color: white;
+  margin: 0 auto;
+  font-family: Verdana, sans-serif;
+}
+
+p{
+  color: white;
+  margin: 0 auto;
+  font-family: Verdana, sans-serif;
+}
+
+.styled-table {
+  color: #DDD;
+  border-collapse: collapse;
+  margin: 25px 0;
+  margin-left: 30%;
+  margin-top: 10%;
+  font-size: 24px;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  border: 1px solid #999;
+}
+.styled-table thead tr {
+  border-bottom: 1px solid #FFF;
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
