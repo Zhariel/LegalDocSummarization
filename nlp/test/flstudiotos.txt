@@ -1,0 +1,224 @@
+General Terms & Conditions
+
+The General Terms & Conditions hereinafter set forth, as amended from time to time, form a part of the Terms of Use, between You and Image Line and is hereby incorporated by reference into the Terms of Use, without the need for further action.
+By downloading, installing, using, copying, transmitting, reselling or distributing the Software, registering or making use of the Website, as well as the ordering or purchasing of a Software license through the Web Shop and/or explicitly accepting these Terms of Use, You indicate that you have read, understood, and agree to be legally bound by the terms.
+The Terms of Use are available electronically in such a way that You can store them easily on a durable medium.
+1.	Definitions
+When used in the Terms of Use and unless defined otherwise in Specific Terms, the following terms shall have the following meaning:
+1.1	Image Line: Image Line NV, with registered office at Franklin Rooseveltlaan 348/D, BE-9000 Ghent (Belgium) also known as Image-Line and Image Line Software, and with company registration number BE 0452.440.860 (Register of legal entities: Gent) and VAT number BE0452.440.860
+1.2	ALPHA / BETA version: Software that has been provided for development and testing purposes of the software itself. Alpha / Beta software is not commercially released, but delivered by restricted distribution systems, such as the User forums or App Store, closed testing, Alpha / Beta systems.
+1.3	Cracked: Software that circumvents Image Line software copy protection and or licensing systems by unlocking the software for use without the user making a formal and correct payment to Image Line through recognized commercial channels.
+1.4	Demo Songs: The demo song and content distributed in or with any version of the Software, including, but not limited to, digitally recorded sounds, MIDI or FL STUDIO format song files, loops, samples, rhythm patterns or patches and digitally reproduced music.
+1.5	Products: the products provided by Image Line, including without limitation Software, Demo Songs, the Website and Samples & Loops.
+1.6	Published Audio & Project Works: any works, including without limitation audio and project works, created by using the Image Line Software. 
+1.7	Publication: the distribution of audio and/or project information, in any format, so that it is available for others to hear, redistribute or use in any other way.
+1.8	Samples & Loops: audio files provided by Image Line, through, without limitation, its Website or its Software. Including, but not limited to: 'hits' such as a single kick-drum hit, complete or partial musical and/or rhythmical phrases known as 'loops' or vocal and all other audio recordings.
+1.9	Song Data: score, automation and all other non-audio data that can be used or saved in a FL Studio project or any other Image Line Product. Including, but not limited to the notes of a melody, an instrument/effect preset and automation data.
+1.10	Box Version: Software sold and delivered to the User in a physical box.
+1.11	Software: All present and future versions program applications or content produced and or distributed by Image Line, including but not limited to, FL STUDIO, FL STUDIO MOBILE, IMAGE-LINE REMOTE, plugins, plugin content and related software products, as well as any updates, upgrades or maintenance releases.
+1.12	User: every natural person or legal person who has downloaded Software and has thus accepted the Terms of Use.
+1.13	Website: www.image-line.com and derivatives developed and administered by Image Line.
+1.14	Web Shop: The web shop of Image Line accessed from the company Website(s).
+1.15	Customer: any physical person or legal entity who uses the Web Shop.
+1.16	Visitor: any natural person or legal entity who uses the Website, including without limitation through any browser or the Image line software.
+1.17	Materials: any Published Audio & Project Work, sound recording, musical work and/or other material (such as pictures, videos, song lyrics, etc.) the Visitor or User provides to Image Line.  
+1.18	Specific Terms: specific terms that apply to specific use cases or category of persons and provided therein and which form a component of the Terms of Use, as available via the Website or any other URL provided by Image Line.
+1.19	Terms of Use: the agreement between Image Line and You, composed of these General Terms and Conditions and the Specific Terms.
+1.20	You: the person bound by the Terms of Use, such as, but not limited to, Users, Visitors and Customers. 
+2.	Contract Structure
+2.1	The Terms of Use govern Your interactions with Image Line and includes the application of these General Terms & Conditions in all use cases , including without limitation, Your orders and the purchasing of a Product license through the Web Shop, as well as the downloading, installation, copying, transmitting, reselling, distributing and use of the Software regardless of whether the Product license was purchased as a Box Version, online, through the Web Shop or through a third party. The Terms of Use also apply to Visitors and any other person who has accepted the Terms of Use.
+2.2	Certain interactions between You and Image Line, may be subject to Specific Terms. If there is any conflict between these General Terms & Conditions and the Specific Terms, the Special Terms will control in relation to their subject matter.
+2.3	If You cannot comply with any of the provisions of the Terms of Use due to statute, judicial order, or regulation, then You must (i) send a printed copy of the Terms of Use back to Image Line, (ii) cite the statute or regulation that prohibits You from adhering to the Terms of Use, and (iii) describe the limitations and the clause they affect. Such description must be sufficiently detailed for a recipient of ordinary skill at computer programming to be able to understand it. The installation, use, copy, distribution or modification of the Software is subject to the acceptance of Image Line of the changed clauses. You may not install, use, copy, transmit or distribute this Software than after You have received a signed copy of the changed Terms of Use.
+3.	Acceptable Use
+3.1	Any rights granted to You are conditional upon the lawfulness of Your copy of the Software and the Demo Songs.
+3.2	No rights whatsoever are granted in case of Cracked or otherwise unauthorized copies of the Software and/or the Demo Songs. Unauthorized duplication, whether in whole or in part, temporary or definitive, of the Software and/or the Demo Songs is a violation of applicable intellectual property laws, other legislation and EU Regulations and may result in severe civil and/or criminal sanctions.
+4.	Term & Termination
+4.1	These Terms of Use shall enter into force on the date of Your acceptance as detailed in the heading of these Terms of Use, and continue in effect for an indefinite duration, unless terminated in accordance with this article 4 (Term & Termination) (hereinafter “Term”).
+4.2	These Terms of Use may be terminated by You and Image Line for convenience at any time upon prior written notice to the other party of three (3) months, starting the first day of the month following the date of delivery of the termination, unless the duration of any Specific Terms  would supersede the Term, in which case these Terms shall remain in effect until the end of such Specific Terms duration.
+4.3	Image Line has the right to terminate at its sole discretion the Terms of Use, any Specific Terms or Product license,  at any time, with immediate effect, without court intervention, without preliminary notice of default and without payment of any compensation, including in, but not limited to the following cases: (i) if You, despite a written notice of default in which a period of at least seven (7) calendar days is observed, remains in default with respect to the (timely and proper) fulfilment of one or more obligations resulting from the Terms of Use (in particular, payment of the invoices); (ii) suspension of payment or (applying for) bankruptcy by You; (iii) liquidation or discontinuation of Your activities; (iv) Your change of control in the sense of article 1:14 of the Belgian Code of Companies and Associations (Wetboek Vennootschappen en Verenigingen); (v) if (a part of) Your assets are seized; (vi) if the You refuse to make an advance payment or provide the guarantees demanded by Image Line; or (vii) if Image Line has reasonable grounds to doubt that You will honor Your obligations to Image Line. 
+4.4	In the case of termination, Image Line retains the right to claim compensation for all costs, interests and damages incurred by Image Line, and all claims by Image Line against You are payable immediately.
+4.5	Upon termination, You will promptly return all copies (if any) of any and all Software and Demo Songs or any portions thereof. Should this be the online version of the Software and Demo Songs, You shall destroy all your copies of the Software and Demo Songs in their entirety.
+4.6	You will not be entitled to any refund of the amounts paid to Image Line, or any other amounts for any reason.
+5.	Representations and warranties
+5.1	You expressly warrant and declare that You are 16 years or older and have the legal authority and capacity to accept the Terms of Use and that the information that has been and will be provided by You to Image Line is true and complete and that You will update such information promptly in case of changes.
+To the extent that You have not reached the legal age of majority: i) Your acceptance of the Terms of Use shall be made on Your behalf by Your parent or legal guardian; ii) no rights shall be granted by the Terms of Use if the Terms of Use have not been accepted on Your behalf by Your parent or legal guardian.
+5.2	Unless specifically provided otherwise in the Terms of Use, all Products are provided by Image Line ‘as is’ & ‘as available’ and without warranty of any kind to the extent allowed by the applicable law.
+5.3	Image Line does not warrant that any information provided (including via its Website) and Product is up-to-date, free of inaccuracies, errors and/or omissions, viruses, worms, trojan horses and the like, or that its content is appropriate Your particular use. Image Line reserves the right to amend the information and Product at any time without notice. Image Line does not warrant any results derived from the use of any third party software. You are solely responsible for any use of the information and Products provided by Image Line.
+5.4	Image Line does not warrant that the Products will be error-free, nor that all program errors will be corrected.
+5.5	Image Line warrants that the media on which the Software is recorded will be free of defects in material and workmanship under normal use for a period of thirty (30) days from purchase, and that the Software and Demo Songs will perform substantially in accordance with the user guide for a period of thirty (30) days from purchase.
+5.6	The warranty on the medium on which the Software is recorded is limited to replacement of the defective medium by a medium free of defects or a refund of the full purchase price and on the condition that the Customer has reported the defect within the warranty period set forth in article 5.5 of the General Terms & Conditions. Image Line has the right to choose the method of remedy at its sole discretion. 
+5.7	Each warranty is void if the damage to the Software is due to the incorrect use, whether intentional or not or abuse of the Software, the Demo Songs or the medium on which the Software is recorded; as well as when the failure of the Software, Demo Songs or the medium on which the Software is recorded results from accident, a malfunctioning system, not meeting the minimum system requirements, or any other circumstances that lie outside of Image Line’s control. 
+5.8	The warranties set forth in this article are the only warranties given by Image Line with respect to all Products, including Software, Demo Songs, the medium on which the software is recorded and all accompanying files, data and contents. Image Line disclaims all warranties, either express or implied, including without limitation any warranties of merchantability, fitness for a particular purpose or title or warranty of non-infringement of any intellectual property or warranty against computer viruses. Image Line does not represent nor warrant that any service will at any moment be uninterrupted or fault-free.
+5.9	ALPHA / BETA versions come with no form of warranty whatsoever and You have to bear all the risks involved.
+5.10	This disclaimer of warranty constitutes an essential part of the Terms of Use.
+6.	Your obligations
+6.1	You bear the burden of proof of defects in any of the Products or information and all Your requests for warranty assistance shall be directed to Image Line.
+6.2	You will exercise due diligence and maintain strict safeguards on all Products received from Image Line to prevent unauthorized use or distribution thereof. If You become aware of any unauthorized use or distribution of the Products, You shall immediately notify Image Line thereof via email.
+6.3	You are responsible for testing the Software with non-critical data before relying on it. You assume the entire risk of using the Software. 
+6.4	Should You install an ALPHA / BETA version of the Software, You should install it in a different folder than the folder of Your previous installation (if any). You acknowledge that ALPHA / BETA versions tend to crash, contain more bugs than a final release, might not be fully compatible with the final release and can share registry entries with an existing installation, causing it to malfunction. Therefore beta versions should only be used for testing purposes by experienced Users who know what they are doing.
+6.5	In no event does Image Line authorize You to use the Products in applications or systems where the Product’s failure to perform can reasonably be expected to result in a significant physical injury, or in loss of life. Any such use is entirely at Your own risk, and You agree to hold Image Line harmless from any claims or losses relating to such unauthorized use.
+7.	Liability
+7.1	You waive any claim against Image Line as regards to the use of the information on the Website and in the Products. Moreover, You accept all risks which are related to the use of the Website and Products, such as but not limited to the risk of damage to Your computer, software or data loss due to a virus.
+7.2	Image Line cannot be held liable for any malfunctions, interruptions or errors in the Website, nor for any improper or fraudulent use of the information on the Website.
+7.3	Image Line cannot be held liable for any inaccuracies, errors and/or omissions, viruses, worms, trojan horses and the like, nor the inappropriateness of the content on the Website or in the Product, nor the incompleteness of the information on the Website or in the Product, nor for the information being out-of-date.
+7.4	Image Line cannot be held liable for any indirect, consequential, punitive or incidental damages, including but not limited to lost profits or revenues, business interruption, loss of data arising out of or any damages whatsoever relating to the use of the Products, or Your relationship with Image Line. 
+7.5	Image Line will in no event be liable for damages resulting from incorrect assembly, installation, use or maintenance of the Software by You.
+7.6	Image Line cannot be held liable for any failure or delay caused by force majeure (i.e. events which are unpredictable, unforeseeable, irresistible or beyond its reasonable control).
+7.7	In any event, the liability of Image Line shall not exceed the Visitor’s registration fee or the total amount paid by the User or Customer to Image Line for the purchased Image Line Product.
+8.	Indemnification
+8.1	You shall indemnify and hold harmless Image Line and its respective directors, agents, principals, shareholders, officers, employees, affiliates, contractors, distributors, subsidiaries, partners, contributors or parent organizations from and against any and all claims, demands or actions made by any third party irrespective of the nature of the claim, demand or action, alleging loss, costs, damages, expenses, or injury (including injury from death) and all losses, damages, liabilities, obligations, judgments, penalties, fines, awards, costs, expenses and disbursements (including without limitation, of investigating, preparing or defending any claim, action, suit, proceeding or investigation) suffered or incurred by Image Line i) on account of Your breach of any provisions set forth in the Terms of Use; ii) resulting from Your use, possession, modification, or alteration of the Products; iii) unauthorized and/or non-compliant use of the Products within Your area of control; and iv) relating to the execution of the agreement not attributable to Image Line.
+8.2	Image Line reserves the right to defend itself from or settle without Your consent, the claims, demands or actions listed in article 8.1 of the General Terms & Conditions brought against Image Line, its agents, principals, shareholders, officers, employees, affiliates, contractors, distributors, subsidiaries, partners, contributors or parent organizations, at Your expense, including all associated costs, expenses and liabilities, including, without limitation, attorney’s fees and You will provide all useful assistance, at Your own cost, to Image Line in defending or settling the claims, demands or actions and assume all liability.
+
+9.	Privacy & Cookies
+9.1	For more information about Image Line’s privacy and cookie policy, please consult the privacy & cookie statement here http://www.image-line.com/legal/ (or any other such URL, as may be specified by Image Line)
+10.	Miscellaneous 
+10.1	The failure of or delay by Image Line to exercise or enforce any of its rights under the Terms of Use shall not be construed as or deemed to be a waiver of that right.
+10.2	The Terms of Use form the complete agreement between Image Line and You on the subject matter and merges and supersedes all other or prior understandings, purchase orders, agreements and arrangements.
+10.3	Through acceptance of the Terms of Use, You fully renounce the application of Your own terms and conditions and any other terms that are not part of the Terms of Use. 
+10.4	If any provision or part of a provision of the Terms of Use is held to be unenforceable, invalid or illegal, this will not affect the enforceability, validity and legality of the rest of the Terms of Use in any way. Any such unenforceable, invalid or illegal provision shall be substituted by a new enforceable, valid and legal provision which reflects the original purpose and comes as close as possible to the original purpose of the invalid, illegal or unenforceable provision. You will negotiate in good faith with Image Line to replace the unenforceable, invalid or illegal provision.
+10.5	Image Line reserves the right to amend, modify or alter the present Terms of Use, including any Specific Terms. These new Terms of Use will enter into force thirty (30) days after they have been published on the Website. If You do not agree to these new Terms of Use, You will have to notify Image Line within this timeframe and Your relevant Product licenses will be revoked when the timeframe expires and the Terms of Use will be terminated between You and Image Line.
+10.6	The express provisions of the Terms of Use replace all implied warranties, conditions, terms, undertakings and obligations implied by statute, common law, custom, trade usage, course of dealing or otherwise, all of which are hereby excluded to the fullest extent permitted by law.
+11.	Applicable law and competent jurisdiction
+11.1	Any dispute concerning the validity or application of the Terms of Use shall be governed by Belgian law, excluding any conflict of law rules.
+11.2	The competent courts of Ghent, Belgium shall have exclusive jurisdiction over any disputes arising from or in connection with the Terms of Use. You submit yourself to their jurisdiction, without prejudice to Image Line’s right to initiate legal action in Your place of domicile or registered office.
+
+
+IMAGE LINE SOFTWARE END USER LICENSE AGREEMENT
+ 
+The end user license agreement hereinafter set forth, as amended from time to time, forms a part of the Terms of Use, between You and Image Line and is hereby incorporated by reference into the Terms of Use, without the need for further action (hereinafter “End User License Agreement” or “EULA”). By accepting the Terms of Use, You indicate that you have read, understood, and agree to be legally bound by the terms of the End User License Agreement. 
+
+  
+1. Offer to contract
+This is an offer to contract. Read the following EULA carefully before downloading, installing, using, copying, transmitting, reselling or distributing the Software. 
+ 
+2. End User License Agreement
+This is an EULA between Image Line and the User, that applies, if not specified otherwise, to the Software and the Demo Songs.
+
+This EULA identifies the terms under which the User may install, use, copy, distribute or modify the Software.
+ 
+3. User rights
+ 
+For as long as the User is not in breach of the EULA and in consideration of payment of the license fee, Image Line hereby grants the User, a personal, non-exclusive, non-transferable, non-rentable, worldwide and revocable license, being the right to use this copy of the Software (and its user manual) as a single person who uses the Software personally on one or more computers or workstations. The Software is licensed, not sold.
+ 
+The User may personally access this copy of the Software through a network, provided that the User as well as any other person who accesses this copy through the network has obtained a separate personal license, regardless of whether the Software is used at different times or concurrently. Any, even non-simultaneous, use by multiple people of a personally licensed copy of the Software is strictly prohibited. This is not a concurrent use license.
+ 
+The User may personally make one (1) back-up copy of the Software insofar as it is necessary for the use the User may make of the Software.
+ 
+The User expressly declares that Image Line has provided the User with a (online) user manual which describes the operation and operating procedures for the Software. This EULA explicitly does not include training or assistance or any other activities with respect of the utilization of the Software. This EULA does entitle the User to receive upgrades or updates as set forth in the ‘Lifetime Free Updates’ article of this EULA. The User is however entitled to online support provided that the User has validly registered himself. The User shall be responsible for installation of the Software on the computer(s) or workstation(s) and is advised to properly configure the hardware used, preparation of back-ups, and operating methods.
+ 
+Depending on the User’s version of the Software, some plugins will be a demo. If so, after saving the User’s project, the demo plugins will be replaced by empty channels/slots next time the project is opened. However, after purchasing and registering these demo plugins, they will load as they were originally saved. A dialog window will inform the User about this.
+
+4. Property Rights
+ 
+The Software and the Demo Songs, in its entirety and each part of it, are protected by applicable intellectual property laws, other legislation, international treaty provisions and EU Regulations.
+ 
+The User acknowledges and agrees that the Software, including but not limited to the source code, the structure and organization, and the Demo Songs in its entirety and each part of it, are property of Image Line and/or its partners and contributors and that Image Line and/or its partners retain exclusive ownership of all rights, titles and interests in and to the Software, Demo Songs, documentation and trademarks. As producer(s) of the databases contained in the Software and the product package of the Software, Image Line and/or its partners and contributors retain all rights.
+ 
+Notwithstanding the foregoing and unless explicitly stated otherwise in this EULA, Image Line shall in no event claim ownership rights to new and original music made by using the Software.
+ 
+The User shall not remove, modify, destroy or obscure any proprietary, trademark or copyright markings or notices. The User will take all reasonable measures to protect Image Line’s proprietary rights in the Software, the Demo Songs, documentation and devices.
+ 
+Apart from this license to use the Software, the User is not granted any rights to patents, copyrights, trade secrets, trade names, trademarks (whether registered or unregistered), or any other rights, franchises or licenses with respect to the Software or the Demo Songs.
+ 
+All rights of any kind in the Software and the Demo Songs, which are not expressly granted in this EULA, are entirely and exclusively reserved to and by Image Line and/or its partners and contributors.
+ 
+The User is however allowed to share the logos and artwork, which can be downloaded at the Website (more specifically: http://support.image-line.com/redirect/FLStudio_images or any other URL specified by Image Line), meaning the User can copy, distribute and transmit them, but only for non-commercial purposes. Also the User cannot alter, transform or build upon these logos and artwork and the User has to respect Image Line’s moral rights. In the event of any such reuse or distribution the User has to make these terms clear to others.
+ 
+5. Resale, transfer & piracy
+ 
+The User shall not resell, lend, give or transfer any Image Line software license, registration key, unlock key, unlock code, Image Line Account or use any other mechanism (including making or using Cracked versions of the Software) that grants a person, other than the User, access to, and use of, any Software or Product that is the subject of this agreement. An explanation of how this benefits the User and Image Line is provided at https://support.image-line.com/redirect/TransferFLStudioOwnership or any other URL specified by Image Line.
+
+6. User obligations
+ 
+Without restricting the generality of the foregoing, the User shall not, nor give anyone permission to (i) duplicate, rent, lease, alter, modify, translate, reverse engineer, decompile, disassemble or create derivative works based on the Software; (ii) make access to the Software available to others in connection with a service bureau, application service provider, or similar business; (iii) export or re-export the Software either directly or indirectly, without the prior written consent of Image Line and without the required export license; nor shall the User give anyone permission to download the Software.
+ 
+On the other hand, without any prejudice to the above, the User shall (i) abide by all laws in the course of using the Software and shall not use the Software for illegal purposes, and in general the User shall use the Software in good faith and under conditions that can be considered as normal use; (ii) take all reasonable precautions to prevent unauthorized use or misuse of the Software; (iii) make no copies of the Software or documentation, other than the back-up copy as stated under article 4 of this EULA.
+ 
+In the event the User’s version of the Software is a trial or demo version, the User’s use of the Software is limited to personal use only. The User is expressly forbidden to use the User’s projects, audio or video created with such a demo version of the Software for commercial purposes, both “profit” or “not-for-profit”. Notwithstanding any foregoing provisions, should the User not comply with this obligation, Image Line will have full ownership over these projects and is therefore entitled to all revenue generated by this commercial use, while the User will remain bound by all the obligations set out in this EULA. In order make this enforceable, the User will hand over the User’s bookkeeping controls to Image Line on simple request.
+ 
+The User shall also not, nor give anyone permission to (i) duplicate, rent, lease, alter, modify, disassemble or create derivative works based on the Demo Songs; (ii) synchronize the Demo Songs with any videotape or film, or print the Demo Songs in the form of standard music notation; (iii) use the Demo Songs for broadcast or transmission of any kind, resell or redistribute the Demo Songs "as is" (i.e. standalone) in any way whether the Demo Songs remain in their original form or are reformatted, mixed, filtered, re-synthesized or otherwise edited, including broadcasting, transmitting, reselling or redistributing for use in sampling or sample playback units, or in any sound library product, or in any radio or television broadcast, soundtrack, film or other commercial product in any media; nor shall the User give anyone permission to download the Demo Songs.
+ 
+On the other hand, without any prejudice to the above, the User shall (i) abide by all laws, EU Regulations and treaties in the course of using the Demo Songs and not to use the Demo Songs for illegal purposes, and in general to use the Demo Songs in good faith and under conditions that can be considered as good practices; (ii) take all reasonable precautions to prevent unauthorized use or misuse of the Demo Songs.
+ 
+7. Third party software
+ 
+With regard to any third party software that may be incorporated in the Software, the User shall not, nor give anyone permission to duplicate, rent, lease, alter, modify, disassemble or create derivative works based on the third party software, including the schematics, in any form or format whatsoever; nor shall the User give anyone permission to download the third party software. Additionally, and without any prejudice to the above, the User shall not create derivative works of the third party software and/or give anyone permission to duplicate or download (even for free), such plugins. The User acknowledges that the use of this third party software entirely falls under the scope of this EULA.
+ 
+However, if the User is an educational institution, such as but not limited to a school or university, and/or has acquired the Software for educational purposes, the User acknowledges that this EULA does not extend to the use for those purposes of the third party software that may be incorporated in the Software. The User acknowledges that such use of the third party software is subject to a license agreement concluded by the User with the concerned third party or parties. Concerning the use of the “FL Synthmaker” application specifically, the User acknowledges and agrees to contact Outsim Ltd. (www.synthmaker.co.uk) and conclude a separate license agreement with it for the use of its “Synthmaker”-software for educational purposes.
+ 
+8. Recommendation software
+ 
+Some installers may use a monetization solution to recommend other software the User may find valuable during installation of the Software. This monetization solution may collect and use non personally identifiable information about this installation and the recommendation process. Collection of this information by this monetization solution only occurs during this installation and the recommendation process, in accordance with this monetization solution's privacy policy.
+ 
+9. Lifetime Free Updates
+ 
+Users of FL STUDIO (originally known as Fruityloops) Software are offered ‘Lifetime Free Updates’, i.e. whenever a new version of the User’s specific FL STUDIO software edition (Express, Signature, Fruity, Fire or Producer) becomes available, the User will have the option to download and use this new version free of charge.
+ 
+This Lifetime Free Updates offer is not valid for:
+FL STUDIO BOX versions prior to BOX version 10;
+Any of the additional plugins; and
+Any software other than the online FL STUDIO software.
+Lifetime Free Updates means that
+ 
+Image Line retains the right to decide at its own sole discretion when and for which specific FL STUDIO software edition (Express, Signature, Fruity, Fire or Producer) new versions or updates are released. In no way, can Image Line be obliged to release new versions or updates for any of its software products.
+ 
+Users of a FL STUDIO BOX version can register their box <http://boxregistration.image-line.com/> online (<http://boxregistration.image-line.com/>) and then will be given access to Lifetime Free Updates. Owners of Box versions prior to 10 can register their Box and then order the Lifetime Free Updates upgrade through the Web Shop at https://shop.image-line.com/ for a small fee.
+
+10. Assignment
+ 
+The User may not assign or try to assign or sublicense or otherwise transfer any of the rights and obligations under this EULA.
+ 
+Image Line shall be entitled to freely assign, at any time and without the User’s prior consent, any or all of its rights and obligations under this EULA to any third party at its discretion whether or not as part of the transfer of all or a substantial part of its business. Image Line will notify the User of any such assignment within one (1) month after such assignment becomes effective. The EULA will be binding on, and inure to the benefit of, Image Line’s successors and/or assigns.
+ 
+In case of assignment by Image Line, the User hereby agrees that all Personal Data (as defined in Image Line’s privacy & cookie statement as referred to in article ‘Privacy Policy’  of this EULA) which are collected in relation to the User, may be transferred to Image Line’s successors and/or assigns without any further approval of the User. 
+ 
+11. Applications sold under 3rd party agreements
+ 
+Some Image Line software applications are sold through 3rd party stores, such as, but not restricted to FL STUDIO MOBILE. Example App stores include the Google Play Store, Apple App Store and Windows App Store. In such cases the User is also bound by the EULAs, Terms of Use and Terms of Service associated with App purchases through such stores. For more information on these agreements see: 
+https://www.image-line.com/legal/fl+studio+mobile+eula/
+ 
+12. Academic EULA
+ 
+This section only applies to the User who is an “Academic User”, being
+a current member of the faculty or staff of a recognized educational institution; or
+a full-time or part-time student currently enrolled at such a recognized educational institution.
+ 
+The issuance of this “Academic EULA” is conditioned upon the User’s current status as an Academic User. If so, the Academic User can obtain the Software license at a discounted price.
+ 
+The provisions of the EULA also apply to Academic Users, but only if the provisions of this Academic EULA do not state otherwise.
+ 
+User rights
+
+The Academic User may use the Software solely for individual and personal purposes, personal education and study including all other non-commercial activities that are consistent with the Academic User’s academic, teaching and research activities. Without limiting the generality of the foregoing, the Academic User may not use the Software for the purpose of conducting, or in connection with, any commercial purposes or business purposes, whether “profit” or “not-for-profit”. Any work performed or produced as a result of use of this Software cannot be performed or produced for the benefit of other parties for a fee, compensation or any other reimbursement or remuneration.
+ 
+The Software license is granted to a named individual at an educational institution and not to any public, private or governmental institution or entity. This license and associated Software may not be assigned or transferred to another party, and any such attempted assignment or transfer will be null and void. Image Line may terminate this license in the event of any such attempted assignment or transfer. Consequently, the Academic User may not put the Software at the free disposal of other teachers and/or students, nor is the Academic User authorized to resell the Software.
+Termination
+
+If the Academic User ceases to be an Academic User, the user has to notify Image Line thereof and the Software license will be terminated without prior notice.
+
+In reliance of the Academic User’s representation as an Academic User, Image Line has charged the Academic User fees that have been discounted from its standard fee. If the Academic User’s representation proves to have been untrue, Image Line reserves the right to cancel the license and block the customers account. 
+ 
+13 User Academic EULA
+ 
+This section only applies to the User who is a “Multiple Academic User”, being
+a current member of the faculty or staff of a recognized educational institution, having purchased a ‘5 User Academic Lab Pack’ or being identified as one (1) of the five (5) Users; or
+a full-time or part-time student currently enrolled at such a recognized educational institution, having purchased a ‘5 User Academic Lab Pack’ or being identified as one (1) of the five (5) users.
+ 
+The issuance of this “5 User Academic EULA” is conditioned upon the User’s current status as a Multiple Academic User. If so, the Multiple Academic User can obtain the Software license at a discounted price.
+The provisions of the EULA also apply to Multiple Academic Users, but only if the provisions of this 5 User Academic EULA do not state otherwise.
+ 
+User Rights
+
+For as long as the Multiple Academic User is not in breach of the 5 User Academic EULA and in consideration of payment of the license fee, Image Line hereby grants the Multiple Academic User, a personal, non-exclusive, non-transferable, worldwide and revocable license, being the right to use five (5) copies of the Software (and its user manual) as a single person, company or institution who uses the Software in an educational, academic environment. The Software is licensed, not sold.
+
+The Multiple Academic User may personally access these copies of the Software through a network, provided that the Multiple Academic User as well as any other person who accesses these copies through the network remains within the five (5) user limitation, regardless of whether the Software is used at different times or concurrently. Any, even non-simultaneous, use by more than five (5) people of the Software is strictly prohibited unless the Multiple Academic User owns more 5 User Academic Lab Packs. Upon purchase of this Software license, these five (5) persons have to be identified.
+ 
+The Multiple Academic User may use the Software solely for individual and personal purposes, personal education and study including all other non-commercial activities that are consistent with the Multiple Academic User’s academic, teaching and research activities. Without limiting the generality of the foregoing, the Multiple Academic User may not use the Software for the purpose of conducting, or in connection with, any commercial purposes or business purposes, whether “profit” or “not-for-profit”. Any work performed or produced as a result of use of this Software cannot be performed or produced for the benefit of other parties for a fee, compensation or any other reimbursement or remuneration.
+ 
+This license and associated Software may not be assigned or transferred to another party, and any such attempted assignment or transfer will be null and void. Image Line may terminate this Software license in the event of any such attempted assignment or transfer. Consequently, the Multiple Academic User may not put this Software at the free disposal of other teachers and/or students, nor is the Multiple Academic User authorized to resell this Software.
+Termination
+
+If the Multiple Academic User ceases to be an Multiple Academic User the User has to notify Image Line and the Software license will be terminated without prior notice.
+ 
+In reliance of the Multiple Academic User’s representation as a Multiple Academic User, Image Line has charged the Multiple Academic User fees that have been discounted from its standard fee. If the Multiple Academic User’s representation proves to have been untrue, Image Line reserves the right to cancel the license and block the account.
+

@@ -18,6 +18,34 @@ body {
   gap: 10px;
 }
 
+.texts{
+  display: flex;
+  width: 60%;
+  margin: 0 auto;
+}
+
+table{
+  margin-left: 0;
+  border-spacing: 0.66em;
+}
+
+.classes{
+  width: 25%;
+  left: 0;
+}
+
+.classes_p{
+}
+
+.classes_wrapped{
+  position: relative;
+  left: 90%;
+}
+
+.summary{
+  width: 50%;
+}
+
 .text{
   width: 25%;
   margin: 0 auto;
@@ -70,6 +98,18 @@ body {
 h1{
   color: white;
   margin: 0 auto;
+  font-family: Verdana, sans-serif;
+}
+
+th{
+  color: white;
+  font-size: 130%;
+  font-family: Verdana, sans-serif;
+}
+
+td{
+  color: white;
+  font-size: 110%;
   font-family: Verdana, sans-serif;
 }
 
