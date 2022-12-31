@@ -52,7 +52,7 @@ table{
 }
 
 .submitbutton{
-  width: 5%;
+  width: 3%;
   margin: 0 auto;
 
 }
@@ -91,6 +91,7 @@ table{
   border-radius: 0;
   border-bottom: 1px solid #FFF;
 }
+
 .inputbox:focus{
   outline: none;
 }
@@ -117,6 +118,7 @@ p{
   color: white;
   margin: 0 auto;
   font-family: Verdana, sans-serif;
+  line-height: 120%;
 }
 
 .styled-table {
